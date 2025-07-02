@@ -14,7 +14,7 @@ Python
 
 ## Files:
 - `calculator.py` → Main code
-- `input_output.txt` → Sample input/output
+- `task.md` → Sample input/output
 
 ## How to Run:
 1. Open terminal
